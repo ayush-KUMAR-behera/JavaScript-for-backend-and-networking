@@ -44,3 +44,4 @@ Build a solid JavaScript foundation that helps me become a better Java Backend E
 ## Progress
 
 *  Day 01 – Variables & Data Types
+* Day 02 - Operators & Conditional Statements
