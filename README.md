@@ -46,3 +46,4 @@ Build a solid JavaScript foundation that helps me become a better Java Backend E
 *  Day 01 – Variables & Data Types
 *  Day 02 - Operators & Conditional Statements
 *  Day 03 - Loops
+*  Day 04 - Functions
