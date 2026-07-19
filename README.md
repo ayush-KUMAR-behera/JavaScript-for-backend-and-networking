@@ -49,3 +49,4 @@ Build a solid JavaScript foundation that helps me become a better Java Backend E
 *  Day 04 - Functions
 *  Day 05 - Arrays Basic
 *  Day 06 - Array Methods
+*  Day 07 - Object & JSON
