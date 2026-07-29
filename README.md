@@ -52,3 +52,4 @@ Build a solid JavaScript foundation that helps me become a better Java Backend E
 *  Day 07 - Object & JSON
 *  Day 08 - ES6 + features
 *  Day 09 - Asynchronous JavaScript Fundamentals
+*  Day 10 - JavaScript Promises & Event Loop
