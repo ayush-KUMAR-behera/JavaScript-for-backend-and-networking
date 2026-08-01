@@ -76,8 +76,5 @@ Build a strong JavaScript foundation to become a **Java Full Stack Developer** c
 
 ## Connect With Me
 
-**GitHub:**  
-https://github.com/ayush-KUMAR-behera
-
 **LinkedIn:**  
 https://www.linkedin.com/in/ayushkumarbehera
