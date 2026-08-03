@@ -54,7 +54,7 @@ Day11-Async-Await/
 - ✔️ Asynchronous JavaScript
 - ✔️ Promises & Event Loop
 - ✔️ Async/Await & Promise Utilities
-
+- ✔️ Fetch API and frontend-backend communication
 ---
 
 ## 🎯 Goal
