@@ -3,7 +3,7 @@
 let numbers=[10,20,30,40,50];
 let result=numbers.slice(1,4);// 1,2,3
 console.log(result);//20,30,40
- console.log(numbers);//10,20,30,40,50
+ console.log(numbers);//10,20,30,40,50const 
  */
 
  /*
